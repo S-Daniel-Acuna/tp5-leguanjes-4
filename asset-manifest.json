@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tp5-leguanjes-4/static/css/main.f063cf0b.css",
+    "main.js": "/tp5-leguanjes-4/static/js/main.4357ff3c.js",
+    "index.html": "/tp5-leguanjes-4/index.html",
+    "main.f063cf0b.css.map": "/tp5-leguanjes-4/static/css/main.f063cf0b.css.map",
+    "main.4357ff3c.js.map": "/tp5-leguanjes-4/static/js/main.4357ff3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f063cf0b.css",
+    "static/js/main.4357ff3c.js"
+  ]
+}
